@@ -1,4 +1,4 @@
-package lt.vcd;
+package lt.vcd.task1;
 
 public class Rectangle {
     public int area(int sideA, int sideB) {

@@ -1,4 +1,4 @@
-package lt.vcd;
+package lt.vcd.task1;
 
 public class Main {
     static void main() {
