@@ -10,7 +10,7 @@ public class Dates {
 
     int daysCunt;
     public int daysCount(int year_from, int month_from, int day_from, int year_to, int  month_to, int day_to) {
-        int yearFromDays = year_from * 365;
+        int yearFromDays = year_from * 365; //Apsimeskime, kad gyvename pasaulyje, kur visi metai turi po 365 dienas
         int yearToDays = year_to * 365;
 
         int monthFromDays = 0;
